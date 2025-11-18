@@ -1,0 +1,5 @@
+ID,Name,Breed,Age,Gender,Type,Size,EnergyLevel,GoodWithChildren,RequiresYard,IsIndoor,GetsAlongWithCats,GetsAlongWithDogs,Temperament,Available,IntakeDate,MedicalRecordId,IsSick,SpecialNeeds,CurrentFosterHome
+PET001,Buddy,Golden Retriever,3,male,Dog,large,8,true,true,false,false,false,,true,2025-10-08,MED001,false,false,
+PET002,Whiskers,Siamese,2,female,Cat,,0,false,false,true,true,false,playful,true,2025-10-08,MED002,true,false,
+PET003,Rocky,German Shepherd,2,male,Dog,large,9,true,true,false,false,false,,true,2025-10-08,,false,false,
+PET004,Luna,Siamese,1,female,Cat,,0,false,false,true,true,false,shy,true,2025-10-08,MED1759909503417,true,false,

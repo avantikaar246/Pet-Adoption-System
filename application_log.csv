@@ -1,0 +1,5 @@
+Timestamp,Action,ApplicationID,AdopterName,AdopterID,PetName,PetID,CompatibilityScore,Status,Notes
+2025-10-08 13:31:27,submitted,APP1759910487369,Robert Brown,ADPT003,Buddy,PET001,94.0,pending,
+2025-10-08 13:33:25,submitted,APP1759910605166,Lisa Taylor,ADPT004,Rocky,PET003,53.49999999999999,pending,
+2025-10-08 13:34:01,approved,APP1759910487369,Robert Brown,ADPT003,Buddy,PET001,94.0,approved,
+2025-10-08 13:34:05,rejected,APP1759910605166,Lisa Taylor,ADPT004,Rocky,PET003,53.49999999999999,rejected,
