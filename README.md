@@ -55,33 +55,6 @@ The system is modular, making it easy to extend with a GUI, database integration
 ### Main
 - `Main.java` – Entry point of the application.  
 
-## Getting Started
-1. Open terminal/command prompt.  
-2. Navigate to your project directory:  
-```bash
-cd /path/to/pet_adoption
-````
-
-3. Compile the project:
-
-```bash
-javac -d . entities/*.java collections/*.java system/*.java Main.java
-```
-
-4. Run the application:
-
-```bash
-java Main
-```
-
-## Usage
-
-1. Launch the application.
-2. Add pets, adopters, or foster homes.
-3. Submit adoption applications.
-4. Use the compatibility calculator to match pets and adopters.
-5. Approve/reject applications and track logs.
-
 ### Screenshots & Output
 
 You can view all application outputs and screenshots in this PDF:
@@ -119,7 +92,7 @@ pet_adoption/
 │   ├── CustomExceptions.java
 │   └── FileHandler.java
 ├── docs/
-│   ├── PetAdoptionSystem_Report.pdf
+│   ├── PetAdoptionSystem_Outputs.pdf
 │   ├── USAGE_GUIDE.md
 │   ├── LIMITATIONS.md
 │   └── IMPROVEMENTS.md
@@ -127,6 +100,7 @@ pet_adoption/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
 ```
 
 ## Documentation
@@ -134,13 +108,6 @@ pet_adoption/
 * [USAGE_GUIDE.md](docs/USAGE_GUIDE.md) – How to use the system.
 * [LIMITATIONS.md](docs/LIMITATIONS.md) – Current limitations of the system.
 * [IMPROVEMENTS.md](docs/IMPROVEMENTS.md) – Future enhancements and improvements.
-
-## Extensibility & Future Work
-
-* Integrate GUI (JavaFX) or web frontend.
-* Replace CSV storage with a database.
-* Add analytics and reporting features.
-* Role-based access for admins, adopters, and foster homes.
 
 ## Contributing
 
@@ -155,4 +122,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 Avantikaa R
 
-```
