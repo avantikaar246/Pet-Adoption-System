@@ -6,15 +6,12 @@ A Java desktop application for managing pet adoption workflows using Object-Orie
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
 3. [Modules](#modules)  
-4. [Getting Started](#getting-started)  
-5. [Usage](#usage)  
-6. [Data Storage](#data-storage)  
-7. [Folder Structure](#folder-structure)  
-8. [Documentation](#documentation)  
-9. [Extensibility & Future Work](#extensibility--future-work)  
-10. [Contributing](#contributing)  
-11. [License](#license)  
-12. [Author](#author)  
+4. [Data Storage](#data-storage)  
+5. [Folder Structure](#folder-structure)  
+6. [Documentation](#documentation)   
+7. [Contributing](#contributing)  
+8. [License](#license)  
+9. [Author](#author)  
 
 ## Project Overview
 The Pet Adoption System is a console-based Java application that:  
